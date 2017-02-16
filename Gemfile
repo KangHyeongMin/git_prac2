@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+# dev2가 수정한 내용
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
